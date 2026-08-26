@@ -2,14 +2,15 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-orange)
-[![Discord](https://img.shields.io/badge/Discord-SpeciAI-5865F2)](https://discord.gg/3gYGuMcqgb)
+[![Discord](https://img.shields.io/badge/Discord-SpeciAI-5865F2)](https://discord.gg/hqdGsY7UpH)
 
 특허 명세서·출원서 내용을 입력하면 도면 유형을 자동 분석하고 PNG 파일로 생성하는 Claude Code 스킬.
 변리사·발명자를 위한 플로우차트·블록도·상태도·그래프·공정도 자동 생성. KIPO 제출 규격(300 DPI, 흑백) 준수.
 
-> 한국 법률 AI 허브 **SpeciAI** 에서 만들고 있어요.
-> 특허·계약·노동·투자를 AI로 해결하는 창업자·변리사·변호사 커뮤니티에 초대합니다.
-> → [discord.gg/3gYGuMcqgb](https://discord.gg/3gYGuMcqgb)
+> 한국 도메인 특화 AI **스페시아이**에서 만듭니다.
+> 법률·세무·노무·회계·의료 실무에 쓰는 도구를 오픈소스로 공개하고,
+> 완성 제품은 [speciai.kr](https://speciai.kr) 에서 운영합니다.
+> → 제품 [speciai.kr/services](https://speciai.kr/services) · 커뮤니티 [디스코드](https://discord.gg/hqdGsY7UpH)
 
 **라이선스**: Apache-2.0
 **버전**: 1.0.0
@@ -121,10 +122,33 @@ sudo apt install fonts-nanum
 한국 법률 AI 허브 **SpeciAI** 디스코드에서 만나요.
 특허·계약·노동·투자 이슈를 AI와 함께 풀어가는 창업자·변리사·변호사 커뮤니티입니다.
 
-**초대 링크**: [discord.gg/3gYGuMcqgb](https://discord.gg/3gYGuMcqgb)
+**초대 링크**: [discord.gg/hqdGsY7UpH](https://discord.gg/hqdGsY7UpH)
 
 이 허브에서 만들고 있습니다. [@kimlawtech](https://github.com/kimlawtech) — 질문과 기여를 환영합니다!
 
 ## License
 
 **Apache License 2.0** — Copyright 2026 kimlawtech (SpeciAI).
+
+---
+
+## 만든 곳
+
+[스페시아이](https://speciai.kr)는 법률·세무·노무·회계·의료 실무에 쓰는
+도메인 특화 AI를 만듭니다. 한국능률협회와 AI 교육과정을 공동 개설했고,
+전문직 세미나에 누적 500명 이상이 참여했습니다.
+
+- 제품 전체 — <https://speciai.kr/services>
+- Claude Code 플러그인 (법무·노무·세무 자문) — <https://speciai.kr/plugin>
+- 전문직 AI 세미나 (월 1회) — <https://speciai.kr/seminar>
+- 커뮤니티 — <https://discord.gg/hqdGsY7UpH>
+
+### 함께 만든 오픈소스
+
+| 저장소 | 내용 | |
+|---|---|---|
+| [korean-privacy-terms](https://github.com/kimlawtech/korean-privacy-terms) | 처리방침·이용약관 자동 생성 | 569★ |
+| [korean-jangbu-for](https://github.com/kimlawtech/korean-jangbu-for) | 장부 자동 생성·OCR | 80★ |
+| [korean-contracts](https://github.com/kimlawtech/korean-contracts) | 한국 계약서 9종 | 61★ |
+| [korean-certified-mail](https://github.com/kimlawtech/korean-certified-mail) | 내용증명 14종 | 9★ |
+| [korean-domain-agent](https://github.com/kimlawtech/korean-domain-agent) | 도메인 특화 LLM 에이전트 킷 | 5★ |
