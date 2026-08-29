@@ -143,12 +143,17 @@ sudo apt install fonts-nanum
 - 전문직 AI 세미나 (월 1회) — <https://speciai.kr/seminar>
 - 커뮤니티 — <https://discord.gg/hqdGsY7UpH>
 
+### 개발팀으로 쓰신다면
+
+DevCowork — 화면설계서 기반 구현·코드리뷰, 커밋·토큰·DORA 지표 추적
+→ <https://devcowork.speciai.team>
+
 ### 함께 만든 오픈소스
 
 | 저장소 | 내용 | |
 |---|---|---|
-| [korean-privacy-terms](https://github.com/kimlawtech/korean-privacy-terms) | 처리방침·이용약관 자동 생성 | 569★ |
-| [korean-jangbu-for](https://github.com/kimlawtech/korean-jangbu-for) | 장부 자동 생성·OCR | 80★ |
+| [korean-privacy-terms](https://github.com/kimlawtech/korean-privacy-terms) | 처리방침·이용약관 자동 생성 | 573★ |
+| [korean-jangbu-for](https://github.com/kimlawtech/korean-jangbu-for) | 장부 자동 생성·OCR | 82★ |
 | [korean-contracts](https://github.com/kimlawtech/korean-contracts) | 한국 계약서 9종 | 61★ |
 | [korean-certified-mail](https://github.com/kimlawtech/korean-certified-mail) | 내용증명 14종 | 9★ |
 | [korean-domain-agent](https://github.com/kimlawtech/korean-domain-agent) | 도메인 특화 LLM 에이전트 킷 | 5★ |
